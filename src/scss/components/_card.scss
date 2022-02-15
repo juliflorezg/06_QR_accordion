@@ -1,0 +1,37 @@
+@use '../abstracts' as abs;
+
+.card{
+  max-width: 320px;
+  padding: 15px;
+  background-color: abs.$white;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px 5px abs.$grayish-blue;
+  box-shadow: 0 1px 10px 10px rgba(170, 170, 170, 0.1);
+  
+  &__image{
+    max-width: 290px;
+    margin-bottom: 30px;
+  }
+
+  img{
+    max-width: 100%;
+    border-radius: 15px;
+  }
+
+  &__title{
+    font-size: abs.$font-size + 7;
+    text-align: center;
+    font-weight: 700;
+    color: abs.$dark-blue;
+    margin-block-end: 25px;
+  }
+
+  &__info{
+    font-size: abs.$font-size;
+    text-align: center;
+    color: abs.$grayish-blue;
+    max-width: 90%;
+    margin: 0 auto;
+    // margin-block-end: 25px;
+  }
+}
