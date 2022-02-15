@@ -1,15 +1,14 @@
-<img src=""></img>
-
+<img src="https://raw.githubusercontent.com/juliflorezg/06_QR_code_component/main/public/images/screenshot.png"></img>
 
 <h1 align="center">QR code component challenge</h1>
 
 <div align="center">
   <h3>
-    <a href="" color="white">
+    <a href="https://juliflorezg.github.io/06_QR_code_component/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://www.frontendmentor.io/solutions/my-solution-for-qr-code-component-o8oFWzsAP">
       Solution
     </a>
    <span> | </span>
@@ -33,17 +32,13 @@ The main challenge is to build out this QR code component and get it looking as 
 <br>
 <br> <p>I don't have access to the Figma sketch so the design is not pixel perfect.</p>
 
-
-
-
-## Built with 
+## Built with
 
 - Semantic HTML5 markup
 - SASS for the CSS styles
 - Use of gulp for compiling and minifying the html & css files and generate sourcemap files, I also added the prefixes for various browsers using postCSS
-- Flexbox & grid 
+- Flexbox & grid
 - Desktop-first workflow
-
 
 ## Useful resources
 
@@ -52,4 +47,4 @@ The main challenge is to build out this QR code component and get it looking as 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my <a href="">solution</a>. It definitely helps to find new ways to code and find easier solutions!
